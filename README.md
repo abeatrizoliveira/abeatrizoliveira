@@ -5,21 +5,15 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="50" height="50" />
 </h1>
 
-Minha jornada é movida por uma curiosidade que une dois mundos: **Tecnologia** e **Arte**. Na Fatec, estudo _Desenvolvimento de Software Multiplataforma_, onde aprendo a dar estrutura às minhas ideias.
-<br>Para mim, programar não é só escrever linhas de comando, é criar arte, é criar soluções. 
-<br><br>Sinta-se em casa para explorar meus repositórios e ver como misturo criatividade com lógica. :blush:
+
 
 <table>
   <tr>
     <td width="55%" valign="top">
 
-## 💻 Minhas Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,python,cs,mysql,postgres)](https://skillicons.dev)
-
-## ⚙️ Ferramentas:
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,git,notion,firebase,supabase,bootstrap)](https://skillicons.dev)
+Minha jornada é movida por uma curiosidade que une dois mundos: **Tecnologia** e **Arte**. Na Fatec, estudo _Desenvolvimento de Software Multiplataforma_, onde aprendo a dar estrutura às minhas ideias.
+<br>Para mim, programar não é só escrever linhas de comando, é criar arte, é criar soluções. 
+<br><br>Sinta-se em casa para explorar meus repositórios e ver como misturo criatividade com lógica.  :blush:
 
   </td>
   <td width="45%" align="right">
@@ -31,5 +25,12 @@ Minha jornada é movida por uma curiosidade que une dois mundos: **Tecnologia** 
   </tr>
 </table>
 
+## 💻 Minhas Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,python,cs,mysql,postgres)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,git,notion,firebase,supabase,bootstrap)](https://skillicons.dev)
 
 </div>
