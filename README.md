@@ -19,17 +19,17 @@ Sinta-se em casa para explorar meus repositórios e conhecer meus projetos! ✨
 ## Tecnologias e Ferramentas
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,java)](https://skillicons.dev)
 
 ### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 ### Outras ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,notion,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,wordpress,notion,supabase)](https://skillicons.dev)
 
 <br>
 
