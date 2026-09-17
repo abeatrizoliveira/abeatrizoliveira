@@ -75,10 +75,6 @@ Sinta-se em casa para explorar meus repositórios e conhecer meus projetos! ✨
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=abeatrizoliveira&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abeatrizoliveira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=abeatrizoliveira&theme=dark&hide_border=false" />
-
 </div>
 
 <br>
@@ -87,7 +83,7 @@ Sinta-se em casa para explorar meus repositórios e conhecer meus projetos! ✨
 
 <div align="center">
   <p>
-Estou sempre aberta para trocar ideias, colaborar em projetos e conversar sobre tecnologia.
+Estou sempre aberta para colaborar em projetos e conversar sobre tecnologia.
   <br><br>
   <a href="...">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
